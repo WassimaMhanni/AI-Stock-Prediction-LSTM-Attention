@@ -13,5 +13,5 @@ This project implements a hybrid deep learning model combining LSTM and Attentio
 Python, TensorFlow, Streamlit, SHAP, yFinance
 
 ## Run the App
-```bash
+
 streamlit run app.py
