@@ -15,3 +15,6 @@ Python, TensorFlow, Streamlit, SHAP, yFinance
 ## Run the App
 
 streamlit run app.py
+![Description](1.png)
+![Description](2.png)
+![Description](3.png)
